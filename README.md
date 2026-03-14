@@ -22,7 +22,7 @@ A cyberpunk-themed calculator built with HTML, CSS and JavaScript.
 - Escape : Clear
 
 ## Live Demo
-[Click here to view](YOUR_GITHUB_PAGES_LINK)
+[Click here to view]https://manmoymondal.github.io/calculator-web/calculator.html
 
 ## Built by
 [@manmoymondal](https://github.com/manmoymondal)
